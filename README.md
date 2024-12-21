@@ -2,13 +2,11 @@
 
 Hej!
 
-Jeg er første semesters studerende hos AU på datalogi! Min profil er lidt et rod, men jeg kan godt lide lidt af hvert. Jeg koder hygge GUI i web-development, embedded projekter med ESP8266, og ellers Java (og Rust når jeg er freakkkyy)
+Jeg er første semesters studerende hos AU på datalogi! Min profil er lidt et rod, men jeg kan godt lide lidt af hvert, GUI i html+css er hygge, især med electron/tauri, IoT projekter med ESP8266 er super sjovt, og ellers har jeg noget erfaring med Java og interesse i c-sprog og rust :)
 
 
 # English
-
-Hi!
-I'm a first semester student at Aarhus university, my profile is under construction but i have some experience with web development, Java arduino and basics of rust :)
+student @ Aarhus university, my profile is under construction but i have some experience with web development, Java, arduino and some interest in c-languages and rust :)
 
 
 ## funny badges
